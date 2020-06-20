@@ -22,6 +22,7 @@ This is a Telegram Rename Bot!
     CUSTOM_CAPTION_UL_FILE = " "
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
+    ABOUT_USER = """YOU'RE FREE shipping"""
     HELP_USER = """Hai am Rename bot..
     
 1. Send me any Telegram File.
